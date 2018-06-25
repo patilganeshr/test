@@ -1,1 +1,1 @@
-This is my newly updated file.
+This is an updated file from Remote Git Repo.
